@@ -2,96 +2,135 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Vishesh Prasad
     - name: Languages
-      value: English, German
+      value: English, Kannada
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BS - Computer Engineering
+      institution: University of Illinois Urbana-Champaign
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Minors in Mathematics, Statistics, Econometrics
+        # - title: Minors
+        #   contents:
+        #     - Mathematics
+        #     - Statistics
+        #     - Econometrics
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    # - title: Research
+    #   institution: University of Illinois Department of Electrical and Computer Engineering
+    #   year: 2022 - Present
+    #   description:
+    #     - title: Undergraduate Teaching Assistant
+    #       contents:
+    #         - CS/ECE 374 – Algorithms & Models of Computation
+    #     - title: Head Teaching Assistant
+    #       contents:
+    #         - Lead the development of a new Engineering Economics Course with Dr. Can Bayram
+    #     - title: Undergraduate Course Assistant
+    #       contents:
+    #         - ECE 110 – Introduction to Electronics
+
+    - title: Undergraduate Research Assistant
+      institution: University of Illinois Department of Electrical and Computer Engineering
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <a href="https://mlpgroup.xyz/">Mathematical Language Processing Group (MLP)</a>
+        - Advised by <a href="https://nickvashkani.com/">Dr. Nickvash Kani</a>
+        - Designed a novel graph algorithm and used LLMs with other machine learning techniques to construct derivation graphs
+
+    - title: Undergraduate Research Assistant
+      institution: <a href="https://isur.engineering.illinois.edu/ibm-il-discovery-accelerator-institute-iidai/">IBM-Illinois Discovery Accelerator Institute (IIDAI)</a>
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Advised by <a href="https://misailo.cs.illinois.edu">Dr. Sasa Misailovic</a> and <a href="https://vikram.cs.illinois.edu">Dr. Vikram S. Adve</a>
+        - Run-time and accuracy optimization of emerging machine learning applications with a novel ML compiler
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Teaching Assistant
+      institution: University of Illinois Department of Electrical and Computer Engineering
+      year: 2024 - Present
       description:
+        - CS/ECE 374 – Algorithms & Models of Computation
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Undergraduate Research Assistant
+      institution: CS at Cornell University
+      year: 2024
+      description:
+        - Software Engineering and Analysis Lab (SEAL)
+        - Advised by <a href="https://www.cs.cornell.edu/~saikatd/">Dr. Saikat Dutta</a>
+        - Paper submitted to ISSTA 2025 - Machine Learning operations (MLOps) research study
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Head Teaching Assistant
+      institution: University of Illinois Department of Electrical and Computer Engineering
+      year: 2024
+      description:
+        - Lead the development of a new Engineering Economics Course with <a href="https://ece.illinois.edu/about/directory/faculty/cbayram">Dr. Can Bayram</a>
+
+    - title: Software Engineering Intern
+      institution: GEICO
+      year: 2024
+
+    - title: Embedded Software Developer Intern
+      institution: Lumentum
+      year: 2023
+
+    - title: Undergraduate Course Assistant
+      institution: University of Illinois Department of Electrical and Computer Engineering
+      year: 2022 - 2023
+      description:
+        - ECE 110 – Introduction to Electronics
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024 - 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Indira Gunda Saladi Research Scholarship
+        - Illinois Scholars Undergraduate Research Scholarship
+    - year: 2023 - 2025
       items:
-        - Max Planck Medal
+        - Dean’s List
+    - year: 2021 - 2025
+      items:
+        - Edmund J. James Scholar
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Chess, Reading, Woodworking, LEGO, Football, Cricket, Tenor Saxophone, Violin, Vehicles

@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Vishesh
-middle_name: 
+middle_name:
 last_name: Prasad
 email: vprasad3@illinois.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -115,7 +115,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note:
-  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -334,9 +333,16 @@ scholar:
 
   sort_by: date
   order: descending
-  type_aliases: { inproceedings: incollection}
+  type_aliases: { inproceedings: incollection }
   type_order: [article, unpublished, incollection, report]
-  type_names: {unpublished: working papers, report: technical reports, techreport: technical reports, article: journal articles, incollection: books & conferences}
+  type_names:
+    {
+      unpublished: working papers,
+      report: technical reports,
+      techreport: technical reports,
+      article: journal articles,
+      incollection: books & conferences,
+    }
 
   bibtex_filters: [latex, smallcaps, superscript]
 
