@@ -63,9 +63,15 @@
         - Advised by <a href="https://misailo.cs.illinois.edu">Dr. Sasa Misailovic</a> and <a href="https://vikram.cs.illinois.edu">Dr. Vikram S. Adve</a>
         - Run-time and accuracy optimization of emerging machine learning applications with a novel ML compiler
 
-    - title: Undergraduate Teaching Assistant
+    - title: Undergraduate Course Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2024 - Present
+      year: 2025 - Present
+      description:
+        - ECE 364 – Programming Methods for Machine Learning
+
+    - title: Undergraduate Course Assistant
+      institution: University of Illinois Department of Electrical and Computer Engineering
+      year: 2024
       description:
         - CS/ECE 374 – Algorithms & Models of Computation
 
