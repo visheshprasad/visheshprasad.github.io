@@ -9,11 +9,15 @@
 - title: Education
   type: time_table
   contents:
+    - title: MS/PhD - Computer Engineering
+      institution: University of Illinois Urbana-Champaign
+      year: 2025 - Present
     - title: BS - Computer Engineering
       institution: University of Illinois Urbana-Champaign
       year: 2021 - 2025
       description:
         - Minors in Mathematics, Statistics, Econometrics
+        - Highest Honors
         # - title: Minors
         #   contents:
         #     - Mathematics
@@ -50,7 +54,7 @@
 
     - title: Undergraduate Research Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2023 - Present
+      year: 2023 - 2025
       description:
         - <a href="https://mlpgroup.xyz/">Mathematical Language Processing Group (MLP)</a>
         - Advised by <a href="https://nickvashkani.com/">Dr. Nickvash Kani</a>
@@ -58,30 +62,30 @@
 
     - title: Undergraduate Research Assistant
       institution: <a href="https://isur.engineering.illinois.edu/ibm-il-discovery-accelerator-institute-iidai/">IBM-Illinois Discovery Accelerator Institute (IIDAI)</a>
-      year: 2024 - Present
+      year: 2024 - 2025
       description:
         - Advised by <a href="https://misailo.cs.illinois.edu">Dr. Sasa Misailovic</a> and <a href="https://vikram.cs.illinois.edu">Dr. Vikram S. Adve</a>
         - Run-time and accuracy optimization of emerging machine learning applications with a novel ML compiler
 
     - title: Undergraduate Course Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2025 - Present
+      year: 2025
       description:
         - ECE 364 – Programming Methods for Machine Learning
+
+    - title: Undergraduate Research Assistant
+      institution: CS at Cornell University
+      year: 2024 - 2025
+      description:
+        - Software Engineering and Analysis Lab (SEAL)
+        - Advised by <a href="https://www.cs.cornell.edu/~saikatd/">Dr. Saikat Dutta</a>
+        - Machine Learning operations (MLOps) research study
 
     - title: Undergraduate Course Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
       year: 2024
       description:
         - CS/ECE 374 – Algorithms & Models of Computation
-
-    - title: Undergraduate Research Assistant
-      institution: CS at Cornell University
-      year: 2024
-      description:
-        - Software Engineering and Analysis Lab (SEAL)
-        - Advised by <a href="https://www.cs.cornell.edu/~saikatd/">Dr. Saikat Dutta</a>
-        - Paper submitted to ISSTA 2025 - Machine Learning operations (MLOps) research study
 
     - title: Head Teaching Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
