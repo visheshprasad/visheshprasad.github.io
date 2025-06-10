@@ -23,7 +23,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final-year undergraduate student at the University of Illinois Urbana-Champaign, studying Computer Engineering with minors in Mathematics, Statistics, and Econometrics. My academic specialization is in machine learning, and I am fortunate to be advised by [Nickvash Kani](https://nickvashkani.com/).
+I am an incoming MS/PhD student in ECE at the University of Illinois Urbana-Champaign. I graduated in May 2025 from the University of Illinois Urbana-Champaign with a B.S. in Computer Engineering and minors in Mathematics, Statistics, and Econometrics. My academic specialization is in machine learning, and I am fortunate to be advised by [Nickvash Kani](https://nickvashkani.com/).
 
 My research interests broadly lie in exploring the theoretical and algorithmic foundations of statistical machine learning, with a particular focus on reinforcement learning, optimization, and game theory. I am especially interested in studying multi-agent systems and learning in complex environments. My current research focuses on mathematical language processing, machine learning compilers, and software engineering, and the skills and insights gained from these experiences will significantly contribute to my future research.
 
