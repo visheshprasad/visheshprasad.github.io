@@ -52,15 +52,21 @@
     #       contents:
     #         - ECE 110 – Introduction to Electronics
 
-    - title: Undergraduate Research Assistant
+    - title: Research Assistant
+      institution: University of Illinois Department of Computer Science
+      year: 2025 - Present
+      description:
+        - Researching adversarial reinforcement learning
+        - Advised by <a href="https://arindam.cs.illinois.edu">Dr. Arindam Banerjee</a>
+
+    - title: Research Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2023 - 2025
+      year: 2023 - Present
       description:
         - <a href="https://mlpgroup.xyz/">Mathematical Language Processing Group (MLP)</a>
         - Advised by <a href="https://nickvashkani.com/">Dr. Nickvash Kani</a>
-        - Designed a novel graph algorithm and used LLMs with other machine learning techniques to construct derivation graphs
 
-    - title: Undergraduate Research Assistant
+    - title: Research Assistant
       institution: <a href="https://isur.engineering.illinois.edu/ibm-il-discovery-accelerator-institute-iidai/">IBM-Illinois Discovery Accelerator Institute (IIDAI)</a>
       year: 2024 - 2025
       description:
@@ -73,9 +79,9 @@
       description:
         - ECE 364 – Programming Methods for Machine Learning
 
-    - title: Undergraduate Research Assistant
+    - title: Research Assistant
       institution: CS at Cornell University
-      year: 2024 - 2025
+      year: 2024
       description:
         - Software Engineering and Analysis Lab (SEAL)
         - Advised by <a href="https://www.cs.cornell.edu/~saikatd/">Dr. Saikat Dutta</a>
@@ -87,15 +93,15 @@
       description:
         - CS/ECE 374 – Algorithms & Models of Computation
 
+    - title: Software Engineering Intern
+      institution: GEICO
+      year: 2024
+
     - title: Head Teaching Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
       year: 2024
       description:
         - Lead the development of a new Engineering Economics Course with <a href="https://ece.illinois.edu/about/directory/faculty/cbayram">Dr. Can Bayram</a>
-
-    - title: Software Engineering Intern
-      institution: GEICO
-      year: 2024
 
     - title: Embedded Software Developer Intern
       institution: Lumentum
@@ -144,4 +150,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Chess, Reading, Woodworking, LEGO, Football, Cricket, Tenor Saxophone, Violin, Vehicles
+    - <u>Hobbies:</u> Chess, Hiking, Tenor Saxophone, Reading, Woodworking, LEGO, Football, Cricket
