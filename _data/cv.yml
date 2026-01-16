@@ -65,6 +65,13 @@
       description:
         - <a href="https://mlpgroup.xyz/">Mathematical Language Processing Group (MLP)</a>
         - Advised by <a href="https://nickvashkani.com/">Dr. Nickvash Kani</a>
+    
+    - title: Graduate Teaching Assistant
+      institution: University of Illinois Department of Electrical and Computer Engineering
+      year: 2025 - Present
+      description:
+        - CS 446/ECE 449 – Machine Learning (Jan. 2025 - Present)
+        - CS/ECE 374 – Algorithms & Models of Computation (Aug. 2025 - Dec. 2025)
 
     - title: Research Assistant
       institution: <a href="https://isur.engineering.illinois.edu/ibm-il-discovery-accelerator-institute-iidai/">IBM-Illinois Discovery Accelerator Institute (IIDAI)</a>
@@ -73,11 +80,14 @@
         - Advised by <a href="https://misailo.cs.illinois.edu">Dr. Sasa Misailovic</a> and <a href="https://vikram.cs.illinois.edu">Dr. Vikram S. Adve</a>
         - Run-time and accuracy optimization of emerging machine learning applications with a novel ML compiler
 
-    - title: Undergraduate Course Assistant
+    - title: Undergraduate Teaching Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2025
+      year: 2022 - 2025
       description:
-        - ECE 364 – Programming Methods for Machine Learning
+        - ECE 364 – Programming Methods for Machine Learning (Jan. 2025 - May 2025)
+        - CS/ECE 374 – Algorithms & Models of Computation (Jan. 2024 - Dec. 2024)
+        - Engineering Economics – Course Development as Head TA (Apr. 2024 - July 2024)
+        - ECE 110 – Introduction to Electronics (Aug. 2022 - Aug. 2023)
 
     - title: Research Assistant
       institution: CS at Cornell University
@@ -87,31 +97,13 @@
         - Advised by <a href="https://www.cs.cornell.edu/~saikatd/">Dr. Saikat Dutta</a>
         - Machine Learning operations (MLOps) research study
 
-    - title: Undergraduate Course Assistant
-      institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2024
-      description:
-        - CS/ECE 374 – Algorithms & Models of Computation
-
     - title: Software Engineering Intern
       institution: GEICO
       year: 2024
 
-    - title: Head Teaching Assistant
-      institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2024
-      description:
-        - Lead the development of a new Engineering Economics Course with <a href="https://ece.illinois.edu/about/directory/faculty/cbayram">Dr. Can Bayram</a>
-
     - title: Embedded Software Developer Intern
       institution: Lumentum
       year: 2023
-
-    - title: Undergraduate Course Assistant
-      institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2022 - 2023
-      description:
-        - ECE 110 – Introduction to Electronics
 
 # - title: Open Source Projects
 #   type: time_table
