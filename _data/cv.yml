@@ -3,21 +3,21 @@
   contents:
     - name: Full Name
       value: Vishesh Prasad
-    - name: Languages
-      value: English, Kannada
+    # - name: Languages
+    #   value: English, Kannada
 
 - title: Education
   type: time_table
   contents:
-    - title: MS/PhD - Computer Engineering
+    - title: MS - ECE, Specialization in Machine Learning
       institution: University of Illinois Urbana-Champaign
-      year: 2025 - Present
+      year: 2025 - 2026
     - title: BS - Computer Engineering
       institution: University of Illinois Urbana-Champaign
       year: 2021 - 2025
       description:
         - Minors in Mathematics, Statistics, Econometrics
-        - Highest Honors
+        - Highest Honors, James Scholar, Dean’s List
         # - title: Minors
         #   contents:
         #     - Mathematics
@@ -56,22 +56,29 @@
       institution: University of Illinois Department of Computer Science
       year: 2025 - Present
       description:
-        - Researching adversarial reinforcement learning
+        - Robustness of generative models for offline reinforcement learning
+        - Adversarial reinforcement learning
+        - General preference multi-turn alignment for LLM agents
         - Advised by <a href="https://arindam.cs.illinois.edu">Dr. Arindam Banerjee</a>
-
-    - title: Research Assistant
-      institution: University of Illinois Department of Electrical and Computer Engineering
-      year: 2023 - Present
-      description:
-        - <a href="https://mlpgroup.xyz/">Mathematical Language Processing Group (MLP)</a>
-        - Advised by <a href="https://nickvashkani.com/">Dr. Nickvash Kani</a>
-    
+      
     - title: Graduate Teaching Assistant
       institution: University of Illinois Department of Electrical and Computer Engineering
       year: 2025 - Present
       description:
-        - (Head TA) CS 446/ECE 449 – Machine Learning (Jan. 2025 - Present)
+        - ECE 484 – Principles of Safe Autonomy (Aug. 2026 - Present)
+        - (Head TA) CS 446/ECE 449 – Machine Learning (Jan. 2025 - May 2026)
         - CS/ECE 374 – Algorithms & Models of Computation (Aug. 2025 - Dec. 2025)
+    
+    - title: Machine Learning Engineering Intern
+      institution: Molex
+      year: 2026
+
+    - title: Research Assistant
+      institution: University of Illinois Department of Electrical and Computer Engineering
+      year: 2023 - 2026
+      description:
+        - <a href="https://mlpgroup.xyz/">Mathematical Language Processing Group (MLP)</a>
+        - Advised by <a href="https://nickvashkani.com/">Dr. Nickvash Kani</a>
 
     - title: Research Assistant
       institution: <a href="https://isur.engineering.illinois.edu/ibm-il-discovery-accelerator-institute-iidai/">IBM-Illinois Discovery Accelerator Institute (IIDAI)</a>
@@ -142,4 +149,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Chess, Hiking, Tenor Saxophone, Reading, Woodworking, LEGO, Football, Cricket
+    - <u>Hobbies:</u> Chess, Hiking, Reading, Tenor Saxophone, Pottery 
